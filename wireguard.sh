@@ -116,7 +116,7 @@ function installQuestions() {
 """
 	echo "Welcome to the Villain' WireGuard installer!"
 	echo ""
-	echo "You need to questions a few questions before starting the setup."
+	echo "You need to answer a few questions before we start the setup."
 	echo "You can keep the default options and just press enter if you are unsure."
 	echo ""
 
